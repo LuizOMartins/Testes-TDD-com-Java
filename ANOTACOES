@@ -1,0 +1,33 @@
+Testes manuais:
+-  pensar em um cenário
+- executar uma ação
+- valida a saida
+
+Testes automatizados:
+-  pensar em um cenário
+- executar uma ação
+- valida a saida
+
+
+
+jUnit: Framework para realização dos testes de unidade.
+
+Classe de teste: anotatiom @Test
+
+Classe Assert. 
+-> contém vários métodos  para a realização dos teste.
+
+Convensão:
+Source Folder test, para organizar as classes de teste.
+
+_______________________________________________________
+
+
+
+Testando o que realmente é necessário:
+
+**CRTL+1 
+importar classes de teste estatica. Deixa o fonte dos testes mais limpos.
+
+
+Testes de regressão: reexecução de algum subconjunto de testes que já foram conduzidos para garantir que as modificações não propagaram efeitos colaterais indesejáveis.
