@@ -1,3 +1,11 @@
+Teste Unitários: 
+Um teste unitário basicamente é o teste da menor parte testável de um programa.
+Tá, mas o que isso quer dizer?
+Se você programa em uma linguagem que suporte paradígma funcional por exemplo, a menor parte testável do seu código deve ser uma função. Então um teste unitário seria o teste de qualquer função. No caso de orientação a objetos seria o teste de um método de seu objeto.
+
+
+_______________________________________________________
+
 Testes manuais:
 -  pensar em um cenário
 - executar uma ação
@@ -31,3 +39,22 @@ importar classes de teste estatica. Deixa o fonte dos testes mais limpos.
 
 
 Testes de regressão: reexecução de algum subconjunto de testes que já foram conduzidos para garantir que as modificações não propagaram efeitos colaterais indesejáveis.
+
+
+_______________________________________________________
+
+
+TDD é uma prática de desenvolvimento de software na qual o programador escreve um teste antes do código. TDD nos traz segurança e feedback constante sobre a qualidade do nosso código.
+
+_______________________________________________________
+
+Metodo com anotação Before, é executado uma vez antes de cada teste.
+Existem mais anotações interessantes no JUnit, como por exemplo, @BeforeClass e @AfterClass.
+_______________________________________________________
+
+Teste data builder diminuem o acoplamento nas classes de testes.
+
+
+_______________________________________________________
+
+
